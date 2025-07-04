@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\assignment3\\day3\\assignment\\assignment.csproj",
+      "projectUniqueName": "E:\\assignment3\\C44-G03-CS03\\day3\\assignment\\assignment.csproj",
       "projectName": "assignment",
-      "projectPath": "E:\\assignment3\\day3\\assignment\\assignment.csproj",
+      "projectPath": "E:\\assignment3\\C44-G03-CS03\\day3\\assignment\\assignment.csproj",
       "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-      "outputPath": "E:\\assignment3\\day3\\assignment\\obj\\",
+      "outputPath": "E:\\assignment3\\C44-G03-CS03\\day3\\assignment\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

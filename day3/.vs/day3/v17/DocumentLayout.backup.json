@@ -1,14 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\assignment3\\day3\\",
+  "WorkspaceRootPath": "E:\\assignment3\\C44-G03-CS03\\day3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7E1B2E4C-10EC-457E-B5DF-6F8444DE50C9}|Demo\\Demo.csproj|e:\\assignment3\\day3\\demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7E1B2E4C-10EC-457E-B5DF-6F8444DE50C9}|Demo\\Demo.csproj|solutionrelative:demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{49D051B7-41B2-445D-ACB2-4E280212B634}|assignment\\assignment.csproj|e:\\assignment3\\c44-g03-cs03\\day3\\assignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49D051B7-41B2-445D-ACB2-4E280212B634}|assignment\\assignment.csproj|solutionrelative:assignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{49D051B7-41B2-445D-ACB2-4E280212B634}|assignment\\assignment.csproj|e:\\assignment3\\day3\\assignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{49D051B7-41B2-445D-ACB2-4E280212B634}|assignment\\assignment.csproj|solutionrelative:assignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{49D051B7-41B2-445D-ACB2-4E280212B634}|assignment\\assignment.csproj|e:\\assignment3\\c44-g03-cs03\\day3\\assignment\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49D051B7-41B2-445D-ACB2-4E280212B634}|assignment\\assignment.csproj|solutionrelative:assignment\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E1B2E4C-10EC-457E-B5DF-6F8444DE50C9}|Demo\\Demo.csproj|e:\\assignment3\\c44-g03-cs03\\day3\\demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E1B2E4C-10EC-457E-B5DF-6F8444DE50C9}|Demo\\Demo.csproj|solutionrelative:demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,34 +22,47 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "E:\\assignment3\\C44-G03-CS03\\day3\\assignment\\Class1.cs",
+              "RelativeDocumentMoniker": "assignment\\Class1.cs",
+              "ToolTip": "E:\\assignment3\\C44-G03-CS03\\day3\\assignment\\Class1.cs",
+              "RelativeToolTip": "assignment\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T12:21:00.038Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "E:\\assignment3\\day3\\Demo\\Program.cs",
+              "DocumentMoniker": "E:\\assignment3\\C44-G03-CS03\\day3\\Demo\\Program.cs",
               "RelativeDocumentMoniker": "Demo\\Program.cs",
-              "ToolTip": "E:\\assignment3\\day3\\Demo\\Program.cs*",
-              "RelativeToolTip": "Demo\\Program.cs*",
-              "ViewState": "AgIAACYAAAAAAAAAAAAiwDkAAAAcAAAAAAAAAA==",
+              "ToolTip": "E:\\assignment3\\C44-G03-CS03\\day3\\Demo\\Program.cs",
+              "RelativeToolTip": "Demo\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwHEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-04T05:32:13.101Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "E:\\assignment3\\day3\\assignment\\Program.cs",
+              "DocumentMoniker": "E:\\assignment3\\C44-G03-CS03\\day3\\assignment\\Program.cs",
               "RelativeDocumentMoniker": "assignment\\Program.cs",
-              "ToolTip": "E:\\assignment3\\day3\\assignment\\Program.cs",
-              "RelativeToolTip": "assignment\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAApAAAAAAAAAA==",
+              "ToolTip": "E:\\assignment3\\C44-G03-CS03\\day3\\assignment\\Program.cs*",
+              "RelativeToolTip": "assignment\\Program.cs*",
+              "ViewState": "AgIAAIEAAAAAAAAAAAAiwJMAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-04T05:31:53.093Z",
               "EditorCaption": ""

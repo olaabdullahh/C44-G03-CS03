@@ -98,6 +98,20 @@ namespace Demo
 
             #region Parse
 
+            //Console.WriteLine("Please ENTER Your Data: ");
+            //string? name = Console.ReadLine();
+            //Console.WriteLine("Age: ");
+            //int Age = int.Parse(Console.ReadLine() ?? "0");
+
+
+            //Console.WriteLine("Salary: ");
+            //decimal salary = decimal.Parse(Console.ReadLine() ?? "0");
+
+
+            #endregion
+             
+            #region Try Parse
+
 
 
             #endregion
